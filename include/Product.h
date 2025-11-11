@@ -1,20 +1,33 @@
 #pragma once
-#include<iostream>
-#include<string>
+#include <string>
+#include <iostream>
 
-class Product{
-public:
+class Product {
+private:
     int id;
     std::string name;
     std::string category;
     double price;
     int stock;
-    int reorder_level;
 
+public:
+    // Constructors
     Product();
-    Product(int id, const std::string& name, const std::string& catergory, double price, int stock, int reorder_levele);
+    Product(int id, const std::string& name, const std::string& category, double price, int stock);
 
-    void validate() const;
-    void adjustStock()(int delta);
+    // Getters
+    int getId() const;
+    std::string getName() const;
+    std::string getCategory() const;
+    double getPrice() const;
+    int getStock() const;
 
+    // Setters
+    void setName(const std::string& name);
+    void setCategory(const std::string& category);
+    void setPrice(double price);
+    void setStock(int stock);
+
+    // Display method
+    void display() const;
 };
