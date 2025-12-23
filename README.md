@@ -49,6 +49,6 @@ The proposed system will include the following detailed features:
 The system will be developed using the following tools and technologies:
 
 - **Programming Language:** C++
-- **Development Environment:** Visual Studio
+- **Development Environment:** VS Code
 - **Data Storage:** Text and binary files for managing all records
 - **Version Control:** Git and GitHub for collaborative development and version management
