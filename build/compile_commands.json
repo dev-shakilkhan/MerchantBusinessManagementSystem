@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/MerchantBusinessManagementSystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/MBMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MBMS.dir\\src\\Customer.cpp.obj -c D:\\MerchantBusinessManagementSystem\\src\\Customer.cpp",
+  "file": "D:/MerchantBusinessManagementSystem/src/Customer.cpp",
+  "output": "CMakeFiles/MBMS.dir/src/Customer.cpp.obj"
+},
+{
+  "directory": "D:/MerchantBusinessManagementSystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/MBMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MBMS.dir\\src\\EMI.cpp.obj -c D:\\MerchantBusinessManagementSystem\\src\\EMI.cpp",
+  "file": "D:/MerchantBusinessManagementSystem/src/EMI.cpp",
+  "output": "CMakeFiles/MBMS.dir/src/EMI.cpp.obj"
+},
+{
+  "directory": "D:/MerchantBusinessManagementSystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/MBMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MBMS.dir\\src\\Finance.cpp.obj -c D:\\MerchantBusinessManagementSystem\\src\\Finance.cpp",
+  "file": "D:/MerchantBusinessManagementSystem/src/Finance.cpp",
+  "output": "CMakeFiles/MBMS.dir/src/Finance.cpp.obj"
+},
+{
+  "directory": "D:/MerchantBusinessManagementSystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/MBMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MBMS.dir\\src\\Menue.cpp.obj -c D:\\MerchantBusinessManagementSystem\\src\\Menue.cpp",
+  "file": "D:/MerchantBusinessManagementSystem/src/Menue.cpp",
+  "output": "CMakeFiles/MBMS.dir/src/Menue.cpp.obj"
+},
+{
+  "directory": "D:/MerchantBusinessManagementSystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/MBMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MBMS.dir\\src\\Product.cpp.obj -c D:\\MerchantBusinessManagementSystem\\src\\Product.cpp",
+  "file": "D:/MerchantBusinessManagementSystem/src/Product.cpp",
+  "output": "CMakeFiles/MBMS.dir/src/Product.cpp.obj"
+},
+{
+  "directory": "D:/MerchantBusinessManagementSystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/MBMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MBMS.dir\\src\\User.cpp.obj -c D:\\MerchantBusinessManagementSystem\\src\\User.cpp",
+  "file": "D:/MerchantBusinessManagementSystem/src/User.cpp",
+  "output": "CMakeFiles/MBMS.dir/src/User.cpp.obj"
+},
+{
+  "directory": "D:/MerchantBusinessManagementSystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/MBMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MBMS.dir\\src\\Utils.cpp.obj -c D:\\MerchantBusinessManagementSystem\\src\\Utils.cpp",
+  "file": "D:/MerchantBusinessManagementSystem/src/Utils.cpp",
+  "output": "CMakeFiles/MBMS.dir/src/Utils.cpp.obj"
+},
+{
+  "directory": "D:/MerchantBusinessManagementSystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/MBMS.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MBMS.dir\\src\\main.cpp.obj -c D:\\MerchantBusinessManagementSystem\\src\\main.cpp",
+  "file": "D:/MerchantBusinessManagementSystem/src/main.cpp",
+  "output": "CMakeFiles/MBMS.dir/src/main.cpp.obj"
+}
+]

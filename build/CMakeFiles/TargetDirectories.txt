@@ -1,0 +1,3 @@
+D:/MerchantBusinessManagementSystem/build/CMakeFiles/MBMS.dir
+D:/MerchantBusinessManagementSystem/build/CMakeFiles/edit_cache.dir
+D:/MerchantBusinessManagementSystem/build/CMakeFiles/rebuild_cache.dir
