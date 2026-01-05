@@ -1,0 +1,3 @@
+778 tomato 85 915
+885 chicken 120 700
+990 chips 32 780
